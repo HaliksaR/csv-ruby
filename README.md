@@ -1,4 +1,6 @@
-# Ruby Study
+# csv-ruby
+![Unit Tests & Lint](https://github.com/HaliksaR/csv-ruby/workflows/Unit%20Tests%20&%20Lint/badge.svg?branch=master)
+
 ## Install
 
 ```bash
@@ -16,4 +18,4 @@ rspec
 
 ```bash
 rubocop
-rubocop -a # Auto-correct
+rubocop -a
